@@ -1,5 +1,5 @@
 # Collecting-web-pages
-QQ：1005974096
+QQ：1005974096   微信号:xxx_soft
 
 可视化向导-
 所有采集元素，自动生成采集数据
